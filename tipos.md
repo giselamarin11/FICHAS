@@ -9,7 +9,7 @@ Las variables se usan para almacenar datos que puede usar un programa mientras s
 ### *Tipos de datos comunes en Java:*
 
 * **String:** almacena texto (se escribe entre comillas dobles).
-* **int:** almacena números enteros (positivos o negativos, sin decimales).
+* **int:** almacena números enteros  ya sean positivos o negativos, sin decimales.
 * **float:** almacena números con decimales (se usa una f al final).
 * **double:** almacena números decimales con más precisión.
 * **char:** almacena un solo carácter (entre comillas simples).
