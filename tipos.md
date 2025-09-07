@@ -9,7 +9,7 @@ Las variables se usan para almacenar datos que puede usar un programa mientras s
 ### *Tipos de datos comunes en Java:*
 
 * **String:** almacena texto (se escribe entre comillas dobles).
-* **int:** almacena números enteros (positivos o negativos, sin decimales).
+* **int:** almacena números enteros  ya sean positivos o negativos, sin decimales.
 * **float:** almacena números con decimales (se usa una f al final).
 * **double:** almacena números decimales con más precisión.
 * **char:** almacena un solo carácter (entre comillas simples).
@@ -18,7 +18,7 @@ Las variables se usan para almacenar datos que puede usar un programa mientras s
 **2. Ejemplo De Variables.**
 
 
-
+```java
 `` public class VariablesEjemplo `` { 
     `` public static void main(String[] args) `` { 
         `` String nombre = "Ana";`` 
@@ -37,14 +37,17 @@ Las variables se usan para almacenar datos que puede usar un programa mientras s
         System.out.println("¿Es estudiante?: " + esEstudiante);
     }
 } 
+```
 
+---
 
 ####  💡Nota Explicación 
 
-// Este código declara varias variables de distintos tipos y les asigna un valor.
-// Luego, las imprime usando System.out.println.
-// Sirve para entender cómo se declara cada tipo de dato y cómo se utiliza. 
+ * Este código declara varias variables de distintos tipos y les asigna un valor.
+ * Luego, las imprime usando System.out.println.
+ * Sirve para entender cómo se declara cada tipo de dato y cómo se utiliza. 
 
+--- 
 
 **3.** Audio 🎵
 
